@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Player 1",
+        "age": 25,
+        "internationalTeam": "Team A",
+        "iplTeam": "Team X",
+        "maritalStatus": "Single",
+        "hundreds": 0,
+        "fifties": 2
+    },
+    {
+        "id": 2,
+        "name": "Player 2",
+        "age": 30,
+        "internationalTeam": "Team B",
+        "iplTeam": "Team Y",
+        "maritalStatus": "Married",
+        "hundreds": 3,
+        "fifties": 5
+    }
+]
